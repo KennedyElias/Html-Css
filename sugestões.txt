@@ -1,0 +1,31 @@
+usar o site do adobe color para paletas de cores
+ou site palleton
+extensão colorzila no navegador para copiar hexadecimal de qualquer cor
+utilizar font-size: 1em; (para tamanho da fonte dentro do site)
+
+juntar todas as formatações de fonte em uma unica tag usando apenas 'font'
+sendo em ordem: style, weight, size, family.
+
+repositorio de fontes no google fontes
+
+'@font-face' para uso de arquivos de fontes salvos na pasta ou servidor do site
+
+extenção 'fonts ninja' para identificar fontes em textos dos sites
+
+site 'what font is' site 'font squirrel' site 'my fonts' para tentar descobrir fontes em imagens
+
+height = altura
+width = largura
+weight = peso
+border = borda
+padding = preenchimento
+margin = margem
+outline = contorno
+
+tipos de caixa = box - inline
+em box: toda caixa de nivel box, sempre vai pular a linha para continuar o conteudo
+em inline: não pula para a proxima linha e não quebra a linha
+uso da tag 'display' para transformar uma tag 'box' para inline e vise versa, box para inline 'display: inline' e inline para box 'display: block'
+tendo tambem a possibilidade de 'inline-block' para que e linha tenha algumas caracteristicas dos dois elementos
+
+uso do Dev tolls para ajudar na visualização das modificaçoes dos sites, por exemplo nas sombras
