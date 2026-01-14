@@ -29,3 +29,5 @@ uso da tag 'display' para transformar uma tag 'box' para inline e vise versa, bo
 tendo tambem a possibilidade de 'inline-block' para que e linha tenha algumas caracteristicas dos dois elementos
 
 uso do Dev tolls para ajudar na visualização das modificaçoes dos sites, por exemplo nas sombras
+
+site qr-code-generator.com para criar qr codes dos sites
