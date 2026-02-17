@@ -31,3 +31,5 @@ tendo tambem a possibilidade de 'inline-block' para que e linha tenha algumas ca
 uso do Dev tolls para ajudar na visualização das modificaçoes dos sites, por exemplo nas sombras
 
 site qr-code-generator.com para criar qr codes dos sites
+
+grid-area: 1 / 1 / 4 / 3; baseado em linha de inicio, coluna de inicio, linha final, coluna final
